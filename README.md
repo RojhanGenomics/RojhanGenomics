@@ -16,3 +16,5 @@ My work combines molecular biology research with growing interests in bioinforma
 
 🔗 **Connect with me:** [GitHub](https://github.com/RojhanGenomics) | [LinkedIn](https://linkedin.com/in/mahdieh-rojhannezhad) | [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) | [Website](https://RojhanGenomics.github.io) 
 📱 **[Telegram Bot](http://telegram.me/RojhanGenomicsBot  )** 
+
+📝 **[View Recommendations & Testimonials](RECOMMENDATIONS.md)**
