@@ -2,6 +2,12 @@ Hi, I'm Mahdieh — a Genetics Ph.D. researcher focused on cancer genomics, CRIS
 
 My work combines molecular biology research with growing interests in bioinformatics, genomic data analysis, variant interpretation, and precision medicine.
 
+Recent projects include:
+
+• Viral Genomics Pipeline (Nextflow DSL2)
+• Variant Calling and Consensus Genome Generation
+• Workflow Automation and Reproducible Bioinformatics Analysis
+
 **Current interests:**
 • Cancer Genomics
 • Functional Genomics
