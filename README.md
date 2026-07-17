@@ -2,25 +2,29 @@ Hi, I'm Mahdieh — a Genetics Ph.D. researcher focused on cancer genomics, CRIS
 
 My work combines molecular biology research with growing interests in bioinformatics, genomic data analysis, variant interpretation, and precision medicine.
 
-Recent projects include:
-
-• Viral Genomics Pipeline (Nextflow DSL2)
-• Variant Calling and Consensus Genome Generation
-• Workflow Automation and Reproducible Bioinformatics Analysis
+**Recent projects include:**
+- 🧬 Molecular Dynamics Simulation of the TP53–PRIMA-1 Complex (GROMACS, AutoDock Vina) — *Work in Progress*
+- 🩺 [PeaceHealth Insights](https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/) — Multilingual Digital Mental Health Screening App (Streamlit, Google Sheets backend)
+- Viral Genomics Pipeline (Nextflow DSL2)
+- Variant Calling and Consensus Genome Generation
+- Workflow Automation and Reproducible Bioinformatics Analysis
 
 **Current interests:**
-• Cancer Genomics
-• Functional Genomics
-• Regulatory Elements & Enhancers
-• WES/NGS Analysis
-• Variant Interpretation
-• Bioinformatics Learning Projects
-• Scientific Visualization
-• Biotechnology Innovation
+- Cancer Genomics
+- Functional Genomics
+- Regulatory Elements & Enhancers
+- WES/NGS Analysis
+- Variant Interpretation
+- RNA Biology & Extracellular Vesicles
+- Molecular Dynamics & Structural Bioinformatics
+- Bioinformatics Learning Projects
+- Scientific Visualization
+- Biotechnology Innovation
 
 📄 **[Download my CV (PDF)](https://github.com/RojhanGenomics/RojhanGenomics/blob/main/International%20CV%20Mahdieh%20Rojhannezhad.pdf)**
 
-🔗 **Connect with me:** [GitHub](https://github.com/RojhanGenomics) | [LinkedIn](https://linkedin.com/in/mahdieh-rojhannezhad) | [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) | [Website](https://RojhanGenomics.github.io) 
-📱 **[Telegram Bot](http://telegram.me/RojhanGenomicsBot  )** 
+🔗 **Connect with me:** [GitHub](https://github.com/RojhanGenomics) | [LinkedIn](https://linkedin.com/in/mahdieh-rojhannezhad) | [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) | [Website](https://RojhanGenomics.github.io)
+
+📱 **[Telegram Bot](http://telegram.me/RojhanGenomicsBot)**
 
 📝 **[View Recommendations & Testimonials](RECOMMENDATIONS.md)**
