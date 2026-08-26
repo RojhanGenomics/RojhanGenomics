@@ -77,10 +77,10 @@ Selected peer-reviewed work includes research on:
 
 ## 🌐 Research & Professional Links
 
-- **Research Website:** https://rojhangalaxy.ir
 - **GitHub:** https://github.com/RojhanGenomics
 - **LinkedIn:** https://www.linkedin.com/in/mahdieh-rojhannezhad/
 - **ORCID:** https://orcid.org/0009-0009-2427-718X
+- **ResearchGate:** https://www.researchgate.net/profile/Mahdieh-Rojhannezhad
 - **CV:** [International CV — Mahdieh Rojhannezhad](https://github.com/RojhanGenomics/RojhanGenomics/blob/main/International%20CV%20Mahdieh%20Rojhannezhad.pdf)
 
 ## 📌 Research Philosophy
