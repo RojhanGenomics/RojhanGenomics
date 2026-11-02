@@ -2,6 +2,8 @@
 
 **Geneticist | Cancer & Functional Genomics | Molecular Diagnostics | Computational Genomics | Laboratory Quality**
 
+**Location:** Iran
+
 Ph.D. geneticist with professional experience in molecular and cytogenetic diagnostics, cancer functional genomics, laboratory supervision, and scientific education. My doctoral research investigated a HER2-associated regulatory enhancer in breast cancer using CRISPR/Cas9, integrating experimental molecular genetics with bioinformatic interpretation.
 
 My computational portfolio contains independent, project-based workflows and case studies in WES, viral genomics, RNA-seq, variant interpretation, and molecular-dynamics simulation. These activities are distinguished from my professional diagnostic-laboratory experience.
