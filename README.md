@@ -21,7 +21,7 @@ My computational portfolio contains independent, project-based workflows and cas
 Doctoral research using CRISPR/Cas9 to investigate a HER2-associated enhancer in breast cancer cell lines. Related findings have been published in peer-reviewed journals.
 
 - [Research repository](https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis)
-- [Scientific Reports publication](https://doi.org/10.1038/s41598-023-46847-2)
+- [Scientific Reports publication](https://doi.org/10.1038/s41598-023-46460-x)
 
 ### PX459-v2 gRNA cloning under resource constraints
 Retrospective research artifact documenting a resource-constrained workflow adaptation. Conclusions are limited to feasibility under the reported constraints; superiority or quantitative equivalence is not claimed.
